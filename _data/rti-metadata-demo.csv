@@ -1,0 +1,2 @@
+objectid,title,creator,date,description,subject,location,latitude,longitude,source,identifier,type,format,language,rights,rightsstatement,display_template,object_location,image_small,image_thumb,image_alt_text,object_transcript
+rti_demo_001,"Example RTI item",,,,,,,,,,,,,,,rti_viewer,/objects/rti_demo_001,/objects/small/rti_demo_001_sm.jpg,/objects/thumbs/rti_demo_001_th.jpg,,
